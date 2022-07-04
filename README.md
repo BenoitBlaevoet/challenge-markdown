@@ -5,7 +5,7 @@
 
 ### Me, in one sentence 
 
-| Description||
+| Description|===|
 |---|:---:|
 |Birthday|15/08|
 |Gender|Male|
@@ -32,4 +32,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut turpis vel magna
 It never happened
 
 <!-- Vérifier les liens -->
-[<< Previous](https://github.com/RinaldoBenaccetta/challenge-markdown) || **Blaevoet Benoit** || [Next >>](https://github.com/LoaW/challenge-markdown)
+[<< Previous](https://github.com/RinaldoBenaccetta/challenge_markdown) || **Blaevoet Benoit** || [Next >>](https://github.com/LoaW/challenge-markdown/blob/main/Description.md)
