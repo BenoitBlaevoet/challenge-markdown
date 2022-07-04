@@ -1,7 +1,7 @@
 # Blaevoet Benoit
 *The most difficult thing is the decision to act, the rest is merely tenacity.*
 
-<img src="./assets/ben.jpg" alt="ben"  width="200" height="200">
+<img src="./assets/ben.png" alt="ben"  width="200" height="200">
 
 ### Me, in one sentence 
 
@@ -23,11 +23,13 @@
 
 ### You can always count on me when 
 
-### A funny story
+To laugh and drink.
 
+### A funny story
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut turpis vel magna ullamcorper mattis. Phasellus bibendum nisl ligula, nec porttitor neque consectetur eget. 
 
 ##### TL;DR
 It never happened
 
-
-[<< Previous]() || **Blaevoet Benoit** || [Next >>](https://github.com/LoaW/challenge-markdown)
+<!-- Vérifier les liens -->
+[<< Previous](https://github.com/RinaldoBenaccetta/challenge-markdown) || **Blaevoet Benoit** || [Next >>](https://github.com/LoaW/challenge-markdown)
